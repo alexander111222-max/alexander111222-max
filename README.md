@@ -22,8 +22,7 @@
 - 🔍 Previously built a **hotel booking service** — full REST API with business logic & DB design
 - 🚀 I go from code to production: Linux server → Docker → Nginx → CI/CD
 - 🧠 Did **ML** for 3 months at university — understand the basics
-- 💬 Open to internships and junior positions — hybrid or remote
-
+  
 ---
 
 ## 🛠 Tech Stack
